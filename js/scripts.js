@@ -11,7 +11,7 @@ if ( value < 0 ) {
 } else if ( value > 0 ) {
     alert('wynik dodatni');
     console.log('wynik dodatni');
-} else if ( value == 0 ) {
+} else {
     alert('wynik równy 0');
     console.log('wynik równy 0');
 }
